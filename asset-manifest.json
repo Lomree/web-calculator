@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/web-calculator/static/css/main.d111d97a.css",
-    "main.js": "/web-calculator/static/js/main.8f2baec8.js",
+    "main.css": "/web-calculator/static/css/main.deb4c5a8.css",
+    "main.js": "/web-calculator/static/js/main.c917a005.js",
     "static/js/787.ad758ad1.chunk.js": "/web-calculator/static/js/787.ad758ad1.chunk.js",
     "static/media/open-sans-all-300-italic.woff": "/web-calculator/static/media/open-sans-all-300-italic.74c697ea78e255132b5f.woff",
     "static/media/open-sans-all-600-italic.woff": "/web-calculator/static/media/open-sans-all-600-italic.6a0d4db93959eeb8d8c6.woff",
@@ -94,12 +94,12 @@
     "static/media/open-sans-greek-ext-600-normal.woff2": "/web-calculator/static/media/open-sans-greek-ext-600-normal.4aea64b37028d201c33e.woff2",
     "static/media/open-sans-greek-ext-700-normal.woff2": "/web-calculator/static/media/open-sans-greek-ext-700-normal.8850c90c4b61e6472307.woff2",
     "index.html": "/web-calculator/index.html",
-    "main.d111d97a.css.map": "/web-calculator/static/css/main.d111d97a.css.map",
-    "main.8f2baec8.js.map": "/web-calculator/static/js/main.8f2baec8.js.map",
+    "main.deb4c5a8.css.map": "/web-calculator/static/css/main.deb4c5a8.css.map",
+    "main.c917a005.js.map": "/web-calculator/static/js/main.c917a005.js.map",
     "787.ad758ad1.chunk.js.map": "/web-calculator/static/js/787.ad758ad1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d111d97a.css",
-    "static/js/main.8f2baec8.js"
+    "static/css/main.deb4c5a8.css",
+    "static/js/main.c917a005.js"
   ]
 }
